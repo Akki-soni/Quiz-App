@@ -50,10 +50,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 Thank you for exploring the QUIZ App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## 🌐 Socials
 
 <div align="center">
