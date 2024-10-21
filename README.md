@@ -1,43 +1,71 @@
-# Quiz Application
+<p align="center">
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/Akki-soni">
+  <img src="https://komarev.com/ghpvc/?username=akki-soni&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-A dynamic and interactive quiz application built using **HTML**, **CSS**, and **JavaScript**. This app allows users to answer multiple-choice questions and provides instant feedback with a final score at the end.
+<h1 align="center">Quiz Application</h1>
 
-## Features
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+</p>
 
-- Multiple-choice quiz questions.
-- Real-time feedback on each question.
-- Score calculation at the end of the quiz.
-- Timer for each question or the entire quiz (if applicable).
-- Responsive design for both desktop and mobile views.
-- Built using HTML, CSS, and Vanilla JavaScript.
+<p align="center">
+  A dynamic and interactive quiz application built using **HTML**, **CSS**, and **JavaScript**. This app allows users to answer multiple-choice questions and provides instant feedback with a final score at the end.
+</p>
 
-## Demo
+## 🚀 Features
 
-Check out the live demo [Click Here]().
+- **Multiple-choice quiz questions.**
+- **Real-time feedback on each question.**
+- **Score calculation at the end of the quiz.**
+- **Timer for each question or the entire quiz (if applicable).**
+- **Responsive design for both desktop and mobile views.**
+- **Built using HTML, CSS, and Vanilla JavaScript.**
 
-## How to Use
+## 🛠️ Technologies Used
 
-1. Clone or download the repository:
-   ```bash
-   git clone
-   ```
-2. Open the index.html file in your browser.
-3. Click "Start Quiz" to begin answering the questions.
-4. the final score will be displayed after answering all the questions.
+- **HTML**: For structuring the quiz.
+- **CSS**: This is used to design and style the quiz interface.
+- **JavaScript**: This is for dynamically handling questions, scoring calculation, and providing feedback.
 
-## Technologies Used
+## 🌟 Screenshots
 
-- HTML: For structuring the quiz.
-- CSS: This is used to design and style the quiz interface.
-- JavaScript: This is for dynamically handling questions, scoring calculation, and providing feedback.
+![Quiz Screenshot](asserts/Screenshot1.png)
 
-## Author
+## 🔗 Live Demo
 
-Akash Chandra Verma \
-LinkedIn:
+[View Live Demo](https://prodigy-task-3-tic-tac-toe-web-application.vercel.app/)
+
+## 🤝 Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 ## Thank You
 
 Thank you for exploring the QUIZ App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
----
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 🌐 Socials
+
+<div align="center">
+
+[![Visit My Profile](https://img.shields.io/badge/Visit%20My%20Profile-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akki-soni)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashchandraverma/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akki-soni)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
+
+<a href="">
+  <img src="asserts/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+</a>
+
+</div>
