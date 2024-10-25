@@ -38,7 +38,7 @@
 
 - **_Clone or download the repository:_**
   ```bash
-  git clone
+  git clone https://github.com/Akki-soni/Quiz-App.git
   ```
 - **_*Open the index.html file in your browser.*_**
 - **_*Click "Start Quiz" to begin answering the questions.*_**
