@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
@@ -75,3 +76,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Thank You
 
 Thank you for exploring the QUIZ App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
+=======
+
+>>>>>>> b867e67d7e252d8ccb6318ecf31262e07714bb00
